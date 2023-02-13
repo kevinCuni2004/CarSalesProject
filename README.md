@@ -1,7 +1,7 @@
 # CarSalesProject
 1st Year Computer Science, Module Introduction to Programming Project
 
-This project was worth 60% of the module and I managed to get 95% with it. The requirements are as below:
+This project was worth 60% of the module and I managed to get 95% with it. The requirements are as below:\n
   -5%: Looping Menu with 3 main actions: View Cars Stock, Buy Cars, View Sales Data
   -Note: A Car is defined by its price and model
   -5%: Must contain at least three arrays to cars information (maximum of 10 Car models)
